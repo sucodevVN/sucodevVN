@@ -16,3 +16,8 @@ Welcome to Sucodev's official GitHub page! We are a software company specializin
 [![](https://visitcount.itsvg.in/api?id=sucodevVN&icon=3&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Thank you for visiting **Sucodev**'s GitHub. We hope you will find what you need and build innovative software solutions with us!
+
+---
+
+© 2025 Sucodev. All rights reserved.
