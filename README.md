@@ -10,7 +10,7 @@ Welcome to Sucodev's official GitHub page! We are a software company specializin
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sucodevVN&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sucodevVN&theme=dark&hide_border=true)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/ username=sucodevVN&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sucodevVN&icon=3&color=3)](https://visitcount.itsvg.in)
