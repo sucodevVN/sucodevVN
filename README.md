@@ -12,7 +12,7 @@ development services with many modern and innovative technologies, to bring opti
 -   **Backend Development**: Java, Node.js, Go
 -   **Cloud Infrastructure**: Server, VPS, Google Cloud, AWS
 -   **CI/CD**: Auto Deploys
--   **AI**: Xử lý ảnh và các ứng dụng trí tuệ nhân tạo khác
+-   **AI**: Image processing and other artificial intelligence applications
 
 ## Technologies We Use
 
@@ -24,19 +24,18 @@ technologies that we apply in our projects:
 -   **HTML, CSS, JavaScript, TypeScript**: This is the basic foundation for developing web interfaces. HTML provides the structure for the web page,
     CSS for styling, and JavaScript/TypeScript for dynamic interactions. TypeScript helps improve the quality of source code with static data type
     checking.
--   **Vue.js 2 & 3**:Vue.js is a powerful and flexible JavaScript framework that helps develop dynamic web applications with ease of use and optimized
+-   **Vue.js 2 & 3**: Vue.js is a powerful and flexible JavaScript framework that helps develop dynamic web applications with ease of use and
+    optimized performance.
+-   **Nuxt.js**: As a framework based on Vue.js, Nuxt.js helps build SSR (Server-Side Rendering) applications easily and optimize page loading
     performance.
--   **Nuxt.js**: Là một framework dựa trên Vue.js, Nuxt.js giúp xây dựng các ứng dụng SSR (Server-Side Rendering) một cách dễ dàng và tối ưu hóa hiệu
-    suất tải trang.
 -   **React.js**: React.js is a popular JavaScript library for building interactive user interfaces, making web applications fast and easy to
     maintain.
--   **Shopify, WordPress**:These platforms make it easy and efficient to build online stores (Shopify) and content management websites (WordPress).
--   **Tailwind CSS**:This is a handy CSS framework that helps develop fast and flexible user interfaces using utility classes.
+-   **Shopify, WordPress**: These platforms make it easy and efficient to build online stores (Shopify) and content management websites (WordPress).
+-   **Tailwind CSS**: This is a handy CSS framework that helps develop fast and flexible user interfaces using utility classes.
 
 ### 📱 Mobile Development
 
 -   **React Native**: Based on React, React Native allows developing mobile applications for both iOS and Android from a common source code base. This
-
     helps save time and development costs.
 
 -   **Flutter**: Flutter is a framework by Google that helps develop mobile applications with high performance and smooth interfaces on both Android
@@ -45,9 +44,8 @@ technologies that we apply in our projects:
 -   **Swift (iOS)**: Swift is Apple's official development language for mobile applications on the iOS operating system, helping to build efficient
     and powerful applications.
 
--   **Kotlin (Android)**: Kotlin is an official language of Android, designed to replace Java, helping to speed up development and reduce errors
-
-    in Android applications.
+-   **Kotlin (Android)**: Kotlin is an official language of Android, designed to replace Java, helping to speed up development and reduce errors in
+    Android applications.
 
 ### 💻 Backend Development
 
@@ -65,9 +63,9 @@ technologies that we apply in our projects:
 -   **Server, VPS**: Solutions like server and VPS (Virtual Private Server) help host your applications on independent servers, providing greater
     flexibility and control than traditional hosting.
 
-    -   **Google Cloud, AWS**: Popular cloud platforms like Google Cloud and AWS (Amazon Web Services) provide cloud computing services that make it
-        easy to deploy, scale, and manage applications. Companies can leverage services like storage, database, compute, and networking to increase
-        scalability and security.
+-   **Google Cloud, AWS**: Popular cloud platforms like Google Cloud and AWS (Amazon Web Services) provide cloud computing services that make it easy
+    to deploy, scale, and manage applications. Companies can leverage services like storage, database compute, and networking to increase scalability
+    and security.
 
 ### 🚀 DevOps
 
